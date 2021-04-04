@@ -1,2 +1,3 @@
 # JavaPong
-its pong in java
+Simple Pong in Java
+Made for a small best pong algorithm competition
